@@ -1,0 +1,5 @@
+PySide6>=6.5
+numpy>=1.24
+pyaudio>=0.2.14
+vosk>=0.3.45
+argostranslate>=1.9.0

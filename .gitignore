@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Models - ignore all model files
+models/*
+!models/.gitkeep
+
+# Temporary argos download
+_argos_tmp/
