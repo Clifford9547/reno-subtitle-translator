@@ -1,4 +1,4 @@
-# Rove Subtitle Translator
+# Reno Subtitle Translator
 
 ## English
 
